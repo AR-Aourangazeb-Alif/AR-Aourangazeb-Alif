@@ -3,6 +3,7 @@
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.redd.it/5c612iy7q5ia1.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ar-aourangazeb-alif&label=Profile%20views&color=0e75b6&style=flat" alt="ar-aourangazeb-alif" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack from Programming Hero**
