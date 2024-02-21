@@ -1,7 +1,7 @@
 ![I am GitHub Readme Generator's creator](https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gif)
 <h1 align="center">Hi 👋, I'm A.R. Aourangazeb Alif</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://sgame.etsisi.upm.es/pictures/24827.gif?1632359739/">
+<img align="right" alt="Coding" width="400" src="https://i.redd.it/5c612iy7q5ia1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ar-aourangazeb-alif&label=Profile%20views&color=0e75b6&style=flat" alt="ar-aourangazeb-alif" /> </p>
 
