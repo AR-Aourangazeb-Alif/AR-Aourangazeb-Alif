@@ -48,7 +48,7 @@
 <div align="center">
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ar-aourangazeb-alif&theme=dracula&show_icons=true&locale=en" alt="ar-aourangazeb-alif" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ar-aourangazeb-alif&theme=dracula" alt="ar-aourangazeb-alif" />
+<br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ar-aourangazeb-alif&theme=dracula" alt="ar-aourangazeb-alif" />
 
 <br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-aourangazeb-alif&theme=dracula&show_icons=true&locale=en&layout=compact" alt="ar-aourangazeb-alif" />
 </div>
