@@ -42,9 +42,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ar-aourangazeb-alif&label=Profile%20views&color=0e75b6&style=flat" alt="ar-aourangazeb-alif" /> </p>
 
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-aourangazeb-alif&theme=dracula&show_icons=true&locale=en&layout=compact" alt="ar-aourangazeb-alif" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ar-aourangazeb-alif&theme=dracula&show_icons=true&locale=en" alt="ar-aourangazeb-alif" /></p>
+<div align="center">
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ar-aourangazeb-alif&theme=dracula&show_icons=true&locale=en" alt="ar-aourangazeb-alif" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ar-aourangazeb-alif&theme=dracula" alt="ar-aourangazeb-alif" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ar-aourangazeb-alif&theme=dracula" alt="ar-aourangazeb-alif" />
+
+<br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-aourangazeb-alif&theme=dracula&show_icons=true&locale=en&layout=compact" alt="ar-aourangazeb-alif" />
+</div>
