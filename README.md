@@ -17,7 +17,7 @@
 <div align="center">
 - 🎓 Completed my Hight School from <a href="https://ncpsc.edu.bd/">NCPSC.</a> <br><br>
 - 💻 I love to learn new technologies and frameworks. <br><br>
-- 🧑‍💼 I’m currently learning <b>MERN stack.</b> <br><br>
+- 🧑‍💼 I’m currently learning <b>MERN Stack.</b> <br><br>
 - 📫 How to reach me <b><a href="mailto:ar.aourangazeb.alif@gmail.com">ar.aourangazeb.alif@gmail.com</a> <br><br>
 </div>
 
