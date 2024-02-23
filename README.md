@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<h2>💬 Socials 💬</h2>
+<h2>🔗 Socials 🔗</h2>
 <br>
   
   <a href="ar.aourangazeb.alif@gmail.com" target="_blank">
