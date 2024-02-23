@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ar-aourangazeb-alif&label=Profile%20views&color=DC9DFF&style=flat" alt="ar-aourangazeb-alif" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=500&color=83A9FF&center=true&vCenter=true&random=false&width=1500&height=60&lines=Hi+There!++%F0%9F%91%8B;+I'm+A.R.+Aourangazeb+Alif+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&weight=400&size=50&pause=500&color=83A9FF&center=true&vCenter=true&random=false&width=1500&height=60&lines=Hi+There!++%F0%9F%91%8B;+I'm+A.R.+Aourangazeb+Alif+)](https://git.io/typing-svg)
 
 <h1></h1>
 
