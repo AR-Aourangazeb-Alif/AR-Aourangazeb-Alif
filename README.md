@@ -1,13 +1,15 @@
 ![I am GitHub Readme Generator's creator](https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gif)
 
+<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=500&color=83A9FF&center=true&vCenter=true&random=false&width=1500&height=60&lines=Hi+There!++%F0%9F%91%8B;+I'm+A.R.+Aourangazeb+Alif+)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=45&duration=1&pause=1000&color=DC9DFF&center=true&vCenter=true&random=false&width=2000&height=60&lines=A+passionate+Full+Stack+developer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9)](https://git.io/typing-svg)
+<h1></h1>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=1&pause=1000&color=DC9DFF&center=true&vCenter=true&random=false&width=2000&height=60&lines=Full+Stack+developer/Coder+🥷,+Learner+👨‍💻,+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9)](https://git.io/typing-svg)
 
 <h1></h1>
-
-
-
 
 
 
