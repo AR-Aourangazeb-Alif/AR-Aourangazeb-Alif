@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=500&color=EE76C5&center=true&vCenter=true&random=false&width=1500&height=60&lines=Hi+There!++%F0%9F%91%8B;+I'm+A.R.+Aourangazeb+Alif+)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=45&duration=1&pause=1000&color=37476B&center=true&vCenter=true&random=false&width=2000&height=60&lines=A+passionate+MERN+Stack+developer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=45&duration=1&pause=1000&color=637FC0&center=true&vCenter=true&random=false&width=2000&height=60&lines=A+passionate+MERN+Stack+developer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9)](https://git.io/typing-svg)
 
 <h1></h1>
 
