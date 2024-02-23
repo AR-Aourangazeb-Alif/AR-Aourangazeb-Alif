@@ -26,6 +26,12 @@ jobs:
     steps:
       - name: Clone repo
         uses: actions/checkout@v4
+        with:
+          ref: main # Explicitly checkout the main branch
+          token: ${{ secrets.GITHUB_TOKEN }}
+        permissions:
+          contents: write # Grant write access to the main branch
+          actions: read # 
     
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
