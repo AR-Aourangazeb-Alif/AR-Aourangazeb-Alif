@@ -15,7 +15,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.redd.it/5c612iy7q5ia1.gif">
 
 <div align="center">
-- 🎓 Completed my Hight School from <a href="https://ncpsc.edu.bd/" target="_blank">NCPSC.</a> <br><br>
+- 🎓 1st Trimester's Student at B.Sc. in Data Science and Analytics at <a href="https://ncpsc.edu.bd/" target="_blank">United International University</a> <br><br>
 - 💻 I love to learn new technologies and frameworks. <br><br>
 - 🧑‍💼 I’m currently learning <b>MERN Stack.</b> <br><br>
 - 📫 How to reach me <b><a href="mailto:ar.aourangazeb.alif@gmail.com" target="_blank">ar.aourangazeb.alif@gmail.com</a> <br><br>
