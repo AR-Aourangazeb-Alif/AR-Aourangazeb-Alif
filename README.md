@@ -15,9 +15,9 @@
 <img align="right" alt="Coding" width="400" src="https://i.redd.it/5c612iy7q5ia1.gif">
 
 <div align="center">
-- 🎓 1st Trimester's Student at B.Sc. in Data Science and Analytics at<br><a href="https://www.uiu.ac.bd" target="_blank">United International University</a> <br><br>
-- 💻 I love to learn new technologies and frameworks. <br><br>
-- 🧑‍💼 I’m currently learning <b>Data Analytics.</b> <br><br>
+- 🎓 Doing B.Sc. in Data Science and Analytics at<br><a href="https://www.uiu.ac.bd" target="_blank">United International University</a> <br><br>
+- 💻 Love to learn new technologies and frameworks. <br><br>
+- 🧑‍💼 Currently learning <b>Data Analytics.</b> <br><br>
 - 📫 How to reach me <b><a href="mailto:ar.aourangazeb.alif@gmail.com" target="_blank">ar.aourangazeb.alif@gmail.com</a> <br><br>
 </div>
 
