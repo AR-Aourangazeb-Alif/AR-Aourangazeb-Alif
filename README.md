@@ -17,7 +17,7 @@
 <div align="center">
 - 🎓 1st Trimester's Student at B.Sc. in Data Science and Analytics at<br><a href="https://www.uiu.ac.bd" target="_blank">United International University</a> <br><br>
 - 💻 I love to learn new technologies and frameworks. <br><br>
-- 🧑‍💼 I’m currently learning <b>MERN Stack.</b> <br><br>
+- 🧑‍💼 I’m currently learning <b>Data Analytics.</b> <br><br>
 - 📫 How to reach me <b><a href="mailto:ar.aourangazeb.alif@gmail.com" target="_blank">ar.aourangazeb.alif@gmail.com</a> <br><br>
 </div>
 
@@ -54,7 +54,7 @@
 <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
  <br>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,mongodb,vite,html,css,tailwind,firebase,linux)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,mongodb,vite,html,css,tailwind,firebase,linux)](https://skillicons.dev)
 
 </div>
 
