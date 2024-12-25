@@ -54,7 +54,7 @@
 <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
  <br>
 
-  [![My Skills](https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,mongodb,vite,html,css,tailwind,firebase,linux)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,mongodb,vite,html,css,tailwind,firebase)](https://skillicons.dev)
 
 </div>
 
